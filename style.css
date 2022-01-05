@@ -1,0 +1,94 @@
+body{
+ font-family:'Shizuru', cursive;
+ 
+ 
+}
+
+#color{
+    color: black;
+}
+.color-change{
+    color:orange;
+}
+section{
+    display: flex ;
+}
+.side-by-side{
+    width: 50%;
+    padding-right:5%;
+    padding-right:2% ;
+}
+.img-side{
+    width: 10%;
+    padding-left: 2%;
+    
+    
+}
+.link-buttom{
+    
+    text-decoration: none;
+    font-size: medium;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-image: linear-gradient(orange, tomato );
+    color: white;
+    width: 700 ;
+    
+}
+#color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.flex{
+width:50% ;
+padding-right: 5px;
+
+}
+.another-flex{
+    width:80%;
+    padding-left: 10px;
+}
+.for-click{
+    background-color: orange;
+    text-decoration: none;
+    width: 700px;;
+    border-radius: 10%;
+    color: white;
+    background-image:linear-gradient(orange,red);
+    padding:2px;
+} 
+.container{
+    display: flex;
+}
+.header{
+    color: orange;
+    text-align: justify;
+}
+.flex-container{
+    width: 50%;
+    padding-left:50px ;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 40px;
+    margin-right: 10px;
+    border-radius: 5px;
+    text-align: center;
+    border-right: 10px;
+    border-image: linear-gradient(red,tomato);
+
+}
+.flex-file{
+    width: 50%;
+    padding-right:50px;
+    box-shadow: 10px 10px 40px gray;
+    margin-right:10px ;
+    margin-left: 80px;
+    border-radius: 5px;
+    text-align: center ;
+    border-left: 10px;
+    border-image : linear-gradient(red,tomato)
+}
+footer{
+    text-align: center;
+}
